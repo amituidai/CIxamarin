@@ -10,6 +10,16 @@
            HorizontalOptions="Center" />
 
         <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+        <Label Text="this is next label"/>
+
     </StackLayout>
 
 </ContentPage>
